@@ -1,10 +1,25 @@
-- 👋Oi, eu sou @Pabuloo
-- 👀Estou interessado HTML | CSS | JAVASCRIPT
+## Olá! Eu sou Pábulo Augusto
+- 👀Estou interessado em front-end - HTML | CSS | JAVASCRIPT 
 - 🌱Atualmente estou aprendendo MySql Workbench, Cursando tecnico em desenvolvimento de sistemas
 - 💞️Procuro colaborar em projetos criativos e desafiadores
-- 📫Como chegar até mim...
+ 
+<div align="center">
+  <a href="https://github.com/Pabuloo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabuloo&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabuloo&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pabulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pabulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pabulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pabulo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">   
+</div>
+  
+  ##
+  
+<div>
+<a href = "mailto:pabuloaugustodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-563D7C?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/pabuloaugustodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-<!---
-Pabuloo/Pabuloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>  
