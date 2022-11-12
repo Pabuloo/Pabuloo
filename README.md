@@ -20,5 +20,6 @@
   
 <div>
 <a href = "mailto:pabuloaugustodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-563D7C?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/pabuloaugustodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/pabuloaugustodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://codepen.io/pabuloo" target="_blank"><img src="https://img.shields.io/badge/codepen-563D7C?style=for-the-badge&logo=codepen&logoColor=white"></a> 
 </div>  
