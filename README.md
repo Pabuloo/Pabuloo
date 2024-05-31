@@ -1,6 +1,6 @@
 ## Olá! Eu sou Pábulo Augusto
 - 👀Estou interessado em front-end - HTML | CSS | JAVASCRIPT 
-- 🌱Atualmente estou HTML, CSS e Javascript, Cursando tecnico em desenvolvimento de sistemas
+- 🌱Atualmente estou HTML, CSS e Javascript
 - 💞️Procuro colaborar em projetos criativos e desafiadores
  
 <div align="center">
