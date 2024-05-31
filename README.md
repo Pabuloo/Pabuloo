@@ -15,7 +15,7 @@
   <img align="center" alt="Pabulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pabulo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">   
 </div>
-
+<br>
 <div>
 <a href = "mailto:pabuloaugustodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-563D7C?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/pabuloaugustodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-563D7C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
